@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\crud backend",
+    "\\crud backend\\StoreApi",
+    "\\crud backend\\StoreApi\\controllers",
+    "\\crud backend\\StoreApi\\repository"
+  ],
+  "SelectedNode": "\\crud backend\\StoreApi\\repository\\ItemRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
