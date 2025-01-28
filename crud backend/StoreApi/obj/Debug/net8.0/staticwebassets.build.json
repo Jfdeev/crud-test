@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "vxc/I2j0I6jp+6tSSI2dpefdZwDrxqNuCsNhOKvXzm0=",
+  "Hash": "/YNiPDOvhx/DUW7DRPbijSTyWcFtZFvn3hTpHRxmo7E=",
   "Source": "StoreApi",
   "BasePath": "_content/StoreApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
