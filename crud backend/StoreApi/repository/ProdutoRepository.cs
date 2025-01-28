@@ -66,9 +66,4 @@ public class ProductRepository : IProductRepository
     {
         return await _context.Products.AnyAsync(e => e.Id == id);
     }
-
-    private bool ProductExists(int id)
-    {
-        return _context.Products.Any(e => e.Id == id);
-    }
 }
